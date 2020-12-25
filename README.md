@@ -1,2 +1,2 @@
-# CSES
-CSES problem Set
+HackerRank and CSES Problems solutions
+https://www.hackerrank.com/amitnandi153
